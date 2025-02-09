@@ -1,6 +1,6 @@
-This is an implementation of the [LevelDB key/value database](https://github.com/google/leveldb) in the [Go programming language](https://go.dev).
+This is an implementation of the [LevelDB key/value database](https://github.com/google/leveldb) in the [Go programming language](https://go.dev). Based on [goleveldb](https://github.com/syndtr/goleveldb), this project modifies the memory management of goleveldb and supports multiple memtables.
 
-[![Build Status](https://app.travis-ci.com/syndtr/goleveldb.svg?branch=master)](https://app.travis-ci.com/syndtr/goleveldb)
+[![Build Status](https://app.travis-ci.com/Tsan1024/goleveldb.svg?branch=master)](https://app.travis-ci.com/syndtr/goleveldb)
 
 Installation
 -----------
